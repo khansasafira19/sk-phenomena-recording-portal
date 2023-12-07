@@ -25,7 +25,8 @@ Before using this code, you gotta make sure you have your local server ready (su
 Copyright © 2023 by Safira Khansa (Nofriani)
 Visit more at https://github.com/khansasafira19 and https://khansasafira19.github.io/
 
-This application is completely free to use, although selling it without my consent is not permissible.
+This application is completely free to use, although selling it without my consent or using it in your name is not permissible.
+The use for any part of my code should include the link to this repo. Thank you for understanding.
 
 ## CONTACT
 - If you have any questions regarding this app, contact me on WhatsApp +62-856-6499-1937
