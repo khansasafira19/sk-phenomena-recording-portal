@@ -2,7 +2,18 @@
 Full Source Code for A Phenomena Recording System.
 
 ## DESCRIPTION
-This is a completely free source code (including database structure) for "Phenomena Recording System", a webapp I developed using Yii2 Framework, MySQL Database, and AdminLTE3. The app consists of Indonesian Language as my first language. But overall, it's easy to use since the code is mostly English.
+This is a completely free source code (including database structure) for "Phenomena Recording System", a webapp I developed using Yii2 Framework, MySQL Database, and AdminLTE3. The app consists of the Indonesian Language as my first language. But overall, it's easy to use since the code is mostly English. 
+
+The features this app has are as follows:
+1. Phenomenon input (such as online news or printed newspaper, recorded to the database)
+2. Phenomena categorization (manual) into 24 categories
+3. Dashboard, snapshots on the database
+4. Monitoring, descriptive analysis of users' activity in phenomena management
+5. Dynamic tabulation for phenomena, aggregately or separately
+6. User management
+7. News crawling using Google CSE API and News API
+
+### The original version of this app was the main study for my research [here](https://ajstd.org/index.php/ajstd/article/view/680) and [here](https://jurnal.kominfo.go.id/index.php/pekommas/article/view/2040105).
 
 ## HOW TO ENJOY
 Before using this code, you gotta make sure you have your local server ready (such xampp or wamp), IDE (I use VSCode), git and composer installed on your computer.
