@@ -22,7 +22,7 @@ Before using this code, you gotta make sure you have your local server ready (su
 2. Run this code to clone the repo using ```git clone https://github.com/khansasafira19/sk-phenomena-recording-system.git```
 3. Access the folder using ```cd sk-phenomena-recording-system```, still in your terminal
 4. Run ```composer update``` to make everything run on the app (it is to fill up the vendor folder)
-5. Access your phpmyadmin, create a database, and name it "mydatabase" or whatever you like. Then import the .sql file in ```root\sql``` folder.
+5. Access your phpmyadmin, create a database, and name it "sk_prs" or whatever you like. Then import the .sql file in ```root\sql``` folder.
 6. Make changes to the ```config\db.php``` file on the database connection, according to your setup.
 7. That's it, the app should run now. Access it on http://localhost/sk-phenomena-recording-system/ using username ```admin``` and password ```admins```
 

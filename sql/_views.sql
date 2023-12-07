@@ -1,4 +1,4 @@
-/* Run this views on SQL tab in PhpMyAdmin after exporting the mydatabase.sql"*/
+/* Run this views on SQL tab in PhpMyAdmin after exporting the sk_prs.sql"*/
 CREATE OR REPLACE VIEW daftarfenomenakat01 AS
 SELECT *,"kat01" AS kategori, CONCAT(id, "_01") AS idkat FROM fenomena WHERE kat01 = 1
 
