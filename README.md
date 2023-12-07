@@ -27,6 +27,7 @@ Before using this code, you gotta make sure you have your local server ready (su
 7. That's it, the app should run now. Access it on http://localhost/sk-phenomena-recording-system/ using username ```admin``` and password ```admins```
 
 ## PREVIEW
+More previews are available [here](https://github.com/khansasafira19/sk-phenomena-recording-system/tree/master/demo-pics).
 ![](demo-pics/login.png?raw=true)
 ![](demo-pics/create-phenomenon.png?raw=true)
 ![](demo-pics/tabulation-main.png?raw=true)
